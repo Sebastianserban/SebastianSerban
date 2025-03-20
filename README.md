@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Sebastian Serban | Developer in Progress 🚀
 
-<!--
-**Sebastianserban/SebastianSerban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Sebastian Serban**, a student of **Technological Baccalaureate** in Madrid with a passion for **Web Application Development**. I enjoy learning new technologies and improving my skills through personal projects. Currently, I am working on:
 
-Here are some ideas to get you started:
+### 🔧 Projects I'm working on:
+- **Pneumatic & Hydraulic Circuit Simulator** using **Python**, **Flet**, and **SimPy**.  
+- **Calorie-Counting App** with image recognition using AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Skills:
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Flet, SimPy  
+- **Tools:** Git, GitHub, Figma, Trello  
+- **Current Focus:** Improving skills in **JavaScript** and **DOM manipulation**.
+
+### 🎯 Future Goals:
+- Expand my knowledge in **Web Development** and **in the Backend**.  
+- Contribute to open-source projects.
+
+---
+
+Feel free to connect with me:
+
+- 📧 Email: [sebasserban7@gmail.com] (optional)
+
+---
+
+✨ **"The journey of a thousand lines of code begins with a single line."**
