@@ -20,7 +20,7 @@ Hi! I'm **Sebastian Serban**, a student of **Technological Baccalaureate** in Ma
 
 Feel free to connect with me:
 
-- 📧 Email: [sebasserban7@gmail.com] (optional)
+- 📧 Email: [sebasserban7@gmail.com]
 
 ---
 
