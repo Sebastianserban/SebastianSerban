@@ -3,12 +3,10 @@
 Hi! I'm **Sebastian Serban**, a student of **Technological Baccalaureate** in Madrid with a passion for **Web Application Development**. I enjoy learning new technologies and improving my skills through personal projects. Currently, I am working on:
 
 ### 🔧 Projects I'm working on:
-- **Pneumatic & Hydraulic Circuit Simulator** using **Python**, **Flet**, and **SimPy**.  
 - **Calorie-Counting App** with image recognition using AI.
 
 ### 💻 Technologies & Skills:
 - **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** Flet, SimPy  
 - **Tools:** Git, GitHub, Figma, Trello  
 - **Current Focus:** Improving skills in **JavaScript** and **DOM manipulation**.
 
